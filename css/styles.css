@@ -93,7 +93,8 @@ a:hover {
 
 .top-container {
   background-color: #cffffe;
-  padding-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .middle-container {
